@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Smart Reminder</string>
+    <string name="title">Smart\nReminder</string>
+    <string name="remindericn_dec">This icon show reminder sign</string>
+    <string name="Powered_By">Powered By</string>
+    <string name="backtxt">Back</string>
+    <string name="createreminder">Create Reminder</string>
+    <string name="editreminder">Edit Reminder</string>
+    <string name="createremindername">Create Reminder Name</string>
+    <string name="morningtask">EX: Morning Tasks</string>
+    <string name="done">Done</string>
+    <string name="Select_Frequency">Select Frequency</string>
+    <string name="daily">Daily</string>
+    <string name="Monfriday">Mon - Fri</string>
+    <string name="satsun">Sat - Sun</string>
+    <string name="addtask">Add Tasks</string>
+    <string name="savebutton">Save</string>
+</resources>
